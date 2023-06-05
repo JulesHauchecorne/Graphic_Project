@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="297mm"
+   viewBox="0 0 297 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="cubeMap.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapP.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0973349"
+     inkscape:cx="628.34054"
+     inkscape:cy="349.93875"
+     inkscape:window-width="1872"
+     inkscape:window-height="1009"
+     inkscape:window-x="24"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="211mm" />
+  <defs
+     id="defs2">
+    <rect
+       x="-30.900965"
+       y="-32.559826"
+       width="1000.7715"
+       height="936.68683"
+       id="rect108303" />
+    <linearGradient
+       id="linearGradient33033"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop33031" />
+    </linearGradient>
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect12456" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7274">
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="0"
+         id="stop7272" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="1"
+         id="stop7270" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient7372"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,4.3096208,2.9032764)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient33035"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73824" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient73826"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,65.355297,2.9032764)"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient73828"
+       gradientUnits="userSpaceOnUse"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632"
+       gradientTransform="translate(61.045676)" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73836" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient73838"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,4.309621,65.043452)"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient73840"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,62.140176)"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73848" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73856" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient73858"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,4.3096208,-59.2369)"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient73860"
+       gradientUnits="userSpaceOnUse"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632"
+       gradientTransform="translate(0,-62.140176)" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73868" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient73870"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,-56.736055,2.903276)"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient73872"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-61.045676)"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632" />
+    <rect
+       x="321.25369"
+       y="396.06973"
+       width="69.74028"
+       height="57.549072"
+       id="rect73880" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7274"
+       id="radialGradient73882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74896887,0,0,0.76239721,126.40098,2.9032764)"
+       cx="121.49415"
+       cy="144.37756"
+       fx="121.49415"
+       fy="144.37756"
+       r="40.753151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33033"
+       id="linearGradient73884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(122.09136)"
+       x1="64.782112"
+       y1="112.97632"
+       x2="125.82779"
+       y2="112.97632" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1009"
+       style="opacity:1;fill:url(#radialGradient7372);fill-opacity:1;stroke:url(#linearGradient33035);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 64.782114,81.906234 H 125.82779 V 144.04641 H 64.782114 Z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.7999317,3.4978009)"
+       id="text12454"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect12456);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115549">A</tspan></text>
+    <path
+       id="path73818"
+       style="opacity:1;fill:url(#radialGradient73826);fill-opacity:1;stroke:url(#linearGradient73828);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 125.82779,81.906234 h 61.04568 v 62.140176 h -61.04568 z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,67.845608,3.4978009)"
+       id="text73822"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73824);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115553"><tspan
+           style="fill:#ff0000"
+           id="tspan115551">R</tspan></tspan></text>
+    <path
+       id="path73830"
+       style="opacity:1;fill:url(#radialGradient73838);fill-opacity:1;stroke:url(#linearGradient73840);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 64.782114,144.04641 h 61.045676 v 62.14018 H 64.782114 Z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.799932,65.637977)"
+       id="text73834"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73836);fill:#008000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115555">I</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.799932,65.637977)"
+       id="text73846"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73848);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path73850"
+       style="opacity:1;fill:url(#radialGradient73858);fill-opacity:1;stroke:url(#linearGradient73860);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 64.782114,19.766058 H 125.82779 V 81.906234 H 64.782114 Z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,6.7999317,-58.642375)"
+       id="text73854"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73856);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115559"><tspan
+           style="fill:#008000"
+           id="tspan115557">S</tspan></tspan></text>
+    <path
+       id="path73862"
+       style="opacity:1;fill:url(#radialGradient73870);fill-opacity:1;stroke:url(#linearGradient73872);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 3.736438,81.906234 H 64.782114 V 144.04641 H 3.736438 Z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-54.245744,3.497801)"
+       id="text73866"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73868);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115563"><tspan
+           style="fill:#ff0000"
+           id="tspan115561">L</tspan></tspan></text>
+    <path
+       id="path73874"
+       style="opacity:1;fill:url(#radialGradient73882);fill-opacity:1;stroke:url(#linearGradient73884);stroke-width:0.905;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 186.87347,81.906234 h 61.04568 v 62.140176 h -61.04568 z"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapI.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,128.89129,3.4978009)"
+       id="text73878"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73880);fill:#0000ff;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/jules/personal_notes/note_uqam/session_8/inf5071/tp3/data/cubeMapR.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="321.25391"
+         y="431.46094"
+         id="tspan115565">P</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text108301"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect108303);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
